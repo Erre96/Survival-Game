@@ -1,1 +1,3 @@
 # Survival-Game
+
+You are stranded upon an small island, and will be hunted by the locals who want you dead. Your goal is to slaughter them all. For each wave of enemies that you defeat, your character will raise in level and you can choose which stats, and abilities to increase. More importantly, you will gain money. Which can in turn provide your character with additional benefits, such as higher damage, defense, hp, mana etc. After clearing 5 waves of enemies, you will have a meeting with a boss. Defeat the boss, and move to the next island. After clearing all the islands, you have beat the game. Although, I'll make sure this will not be an easy task. Only the most skilled players will ever reach that point.

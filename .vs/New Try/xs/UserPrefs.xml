@@ -1,0 +1,25 @@
+﻿<Properties StartupConfiguration="{BEAC913B-8BD0-851D-0935-3F90C54977A0}|">
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="Unity.Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/JoystickController.cs">
+    <Files>
+      <File FileName="Assets/MarketController.cs" Line="224" Column="53" />
+      <File FileName="Assets/SellingController.cs" Line="93" Column="50" />
+      <File FileName="Assets/Scripts/gi.cs" Line="71" Column="19" />
+      <File FileName="Assets/SellingItemController.cs" Line="13" Column="1" />
+      <File FileName="Assets/Scripts/AssetsLibrary.cs" Line="15" Column="47" />
+      <File FileName="Assets/Scripts/EnemyControllerNew.cs" Line="5" Column="14" />
+      <File FileName="Assets/Scripts/HealthbarController.cs" Line="50" Column="40" />
+      <File FileName="Assets/DataTextController.cs" Line="36" Column="55" />
+      <File FileName="Assets/Scripts/Spawner.cs" Line="49" Column="24" />
+      <File FileName="Assets/Scripts/PlayerController.cs" Line="77" Column="10" />
+      <File FileName="Assets/Scripts/MineController.cs" Line="7" Column="2" />
+      <File FileName="Assets/Scripts/JoystickController.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>

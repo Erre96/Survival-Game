@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<Inventory xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <items>
+    <Item>
+      <value>452</value>
+      <level>181</level>
+      <itemType>6</itemType>
+      <name>Orb of Life</name>
+      <mainAttr>Life steal</mainAttr>
+      <itemDmg>0</itemDmg>
+      <itemArm>0</itemArm>
+      <itemAP>0</itemAP>
+      <hpInc>0</hpInc>
+      <mpInc>0</mpInc>
+      <lifeSteal>36.2</lifeSteal>
+      <attSpdInc>0</attSpdInc>
+    </Item>
+    <Item>
+      <value>452</value>
+      <level>181</level>
+      <itemType>1</itemType>
+      <name>Sword</name>
+      <mainAttr>Damage</mainAttr>
+      <itemDmg>253</itemDmg>
+      <itemArm>0</itemArm>
+      <itemAP>0</itemAP>
+      <hpInc>0</hpInc>
+      <mpInc>0</mpInc>
+      <lifeSteal>0</lifeSteal>
+      <attSpdInc>0</attSpdInc>
+    </Item>
+    <Item>
+      <value>202</value>
+      <level>81</level>
+      <itemType>1</itemType>
+      <name>Sword</name>
+      <mainAttr>Damage</mainAttr>
+      <itemDmg>113</itemDmg>
+      <itemArm>0</itemArm>
+      <itemAP>0</itemAP>
+      <hpInc>0</hpInc>
+      <mpInc>0</mpInc>
+      <lifeSteal>0</lifeSteal>
+      <attSpdInc>0</attSpdInc>
+    </Item>
+    <Item>
+      <value>452</value>
+      <level>181</level>
+      <itemType>4</itemType>
+      <name>Orb of Constituion</name>
+      <mainAttr>Health bonus</mainAttr>
+      <itemDmg>0</itemDmg>
+      <itemArm>0</itemArm>
+      <itemAP>0</itemAP>
+      <hpInc>724</hpInc>
+      <mpInc>0</mpInc>
+      <lifeSteal>0</lifeSteal>
+      <attSpdInc>0</attSpdInc>
+    </Item>
+    <Item>
+      <value>327</value>
+      <level>131</level>
+      <itemType>2</itemType>
+      <name>Shield</name>
+      <mainAttr>Defense</mainAttr>
+      <itemDmg>0</itemDmg>
+      <itemArm>210</itemArm>
+      <itemAP>0</itemAP>
+      <hpInc>0</hpInc>
+      <mpInc>0</mpInc>
+      <lifeSteal>0</lifeSteal>
+      <attSpdInc>0</attSpdInc>
+    </Item>
+    <Item>
+      <value>0</value>
+      <level>0</level>
+      <itemType>0</itemType>
+      <itemDmg>0</itemDmg>
+      <itemArm>0</itemArm>
+      <itemAP>0</itemAP>
+      <hpInc>0</hpInc>
+      <mpInc>0</mpInc>
+      <lifeSteal>0</lifeSteal>
+      <attSpdInc>0</attSpdInc>
+    </Item>
+  </items>
+</Inventory>

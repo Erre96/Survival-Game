@@ -1,0 +1,34 @@
+﻿<Specs>
+  <Name>KIO</Name>
+  <Gold>1220</Gold>
+  <Weapon>2</Weapon>
+  <Skillpoints>18</Skillpoints>
+  <Level>10</Level>
+  <Abilities>
+    <Ability>
+      <ID>2</ID>
+      <Level>1</Level>
+    </Ability>
+    <Ability>
+      <ID>4</ID>
+      <Level>1</Level>
+    </Ability>
+  </Abilities>
+  <Passives>
+    <Attack>
+      <Level>4</Level>
+    </Attack>
+    <Defense>
+      <Level>1</Level>
+    </Defense>
+    <Magic>
+      <Level>1</Level>
+    </Magic>
+    <Vitality>
+      <Level>1</Level>
+    </Vitality>
+    <Energy>
+      <Level>1</Level>
+    </Energy>
+  </Passives>
+</Specs>
